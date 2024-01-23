@@ -1,0 +1,32 @@
+
+.btn{
+background-color: #0067a8;
+
+}
+.header{
+	background-color: #0a005b;
+}
+.banner{
+	background: url("images/Untitled-10.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: cover;
+	height: 500px;
+	align-content: center;
+	text-align: center;
+    align-items: center; 
+} 
+.section{background-color: #ebebeb;}
+.card2{background: url("images/i5.jpg"); background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+height: 550px;
+line-height: 30px;
+}
+.cards{
+	position: absolute;
+	top: 75%;
+	left: 25%;
+
+
+}
